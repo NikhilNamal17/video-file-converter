@@ -1,2 +1,11 @@
-# video-file-converter
-A Free Video File Converter built with Electron.
+### Getting started
+
+`npm install`
+
+Start dev server:
+
+`npm start`
+
+In a new terminal window:
+
+`npm run electron`
