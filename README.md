@@ -1,6 +1,6 @@
-# ☁️ Electron Video File Converter
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Why spend $10 in the app store or risk downloading malware infested version online, when you can use this non-malicious app for free!
+# ☁️ Electron Video File Converter
 
 Convert your favourite 📼s to:
  - AVI
@@ -20,6 +20,6 @@ Start dev server:
 
 `npm start`
 
-In a new terminal window:
+Start Electron:
 
 `npm run electron`
